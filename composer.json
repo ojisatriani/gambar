@@ -1,0 +1,22 @@
+{
+    "name": "OjiSatriani/Gambar",
+    "description": "gambar laravel oji",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ojiSatriani",
+            "email": "oji.satriani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OjiSatriani\\": "src/"
+        }
+    }
+}
