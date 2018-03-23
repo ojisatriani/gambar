@@ -1,2 +1,2 @@
 ## Gambar oji Satriani
-kelola gambar 
+kelola gambar (Beta version)
